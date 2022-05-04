@@ -1,0 +1,8 @@
+import 'package:inicio_do_projeto/inicio_do_projeto.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
